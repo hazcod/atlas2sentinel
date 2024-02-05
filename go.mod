@@ -10,7 +10,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/sirupsen/logrus v1.9.3
-	go.mongodb.org/atlas-sdk/v20231115005 v20231115005.0.0
+	go.mongodb.org/atlas-sdk/v20231115005 v20231115005.1.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
